@@ -1,2 +1,2 @@
 # thompson-capital-website.github.io
-thompson-capital.net
+http://thompson-capital.com
